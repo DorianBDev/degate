@@ -1,3 +1,5 @@
+***This repository is now closed. See : https://github.com/DegateCommunity/Degate for the new Degate repository.***
+
 ![Degate Logo](res/degate_logo.png) 
 
 Degate 2.0
